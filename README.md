@@ -34,7 +34,59 @@ The model has the following structure:
 
 After the model is trained. You would like to generate new text (characters). The process of generation is explained in the picture below:
 <img src="images/dinos3.png" style="width:500;height:300px;">
+# Results
+Iteration: 0, Loss: 23.087336
 
+>Nkzxwtdmfqoeyhsqwasjkjvu
+Kneb
+Kzxwtdmfqoeyhsqwasjkjvu
+Neb
+Zxwtdmfqoeyhsqwasjkjvu
+Eb
+Xwtdmfqoeyhsqwasjkjvu"
+
+Iteration: 4000, Loss: 25.901815
+
+>Mivrosaurus
+Inee
+Ivtroplisaurus
+Mbaaisaurus
+Wusichisaurus
+Cabaselachus
+Toraperlethosdarenitochusthiamamumamaon
+
+
+Iteration: 10000, Loss: 23.844446
+
+>Onyusaurus
+Klecalosaurus
+Lustodon
+Ola
+Xusodonia
+Eeaeosaurus
+Troceosaurus
+
+Iteration: 20000, Loss: 22.873854
+
+>Nlyushanerohyisaurus
+Loga
+Lustrhigosaurus
+Nedalosaurus
+Yuslangosaurus
+Elagosaurus
+Trrangosaurus
+
+Iteration: 34000, Loss: 22.447230
+
+>Onyxipaledisons
+Kiabaeropa
+Lussiamang
+Pacaeptabalsaurus
+Xosalong
+Eiacoteg
+Troia
+
+At first, the algorithm was generating random characters, but towards the end you could see dinosaur names with cool endings.
 # References
 - This exercise took inspiration from Andrej Karpathy's implementation: https://gist.github.com/karpathy/d4dee566867f8291f086. To learn more about text generation, also check out Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 - Sequence Models, Deep learning Specialization by Deeplearning.AI : https://www.coursera.org/learn/nlp-sequence-models
