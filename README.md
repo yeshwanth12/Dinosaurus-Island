@@ -12,7 +12,7 @@ Welcome to Dinosaurus Island! 65 million years ago, dinosaurs existed, and they 
 
 </table>
 
-Luckily you have learned some deep learning and you will use it to save the day. Your assistant has collected a list of all the dinosaur names they could find, and compiled them into this [dataset](dinos.txt). To create new dinosaur names, you will build a character level language model to generate new names. Your algorithm will learn the different name patterns, and randomly generate new names.
+Luckily you have learned some deep learning and you will use it to save the day. Your assistant has collected a list of all the dinosaur names they could find, and compiled them into this [dataset](dinos.txt). To create new dinosaur names, you will build a character level language model to generate new names. The algorithm will learn the different name patterns, and randomly generate new names.
 
 # Model Overview
 The model has the following structure: 
